@@ -1,0 +1,8 @@
+Netflix Clone Demo 
+
+Got the Movie database from TMDB API and created the Row using it.
+CSS Styling and hovereffect on Row posters.
+Used axios to connent to the server TMDB API.
+Used Hooks to handle the Data and UI.
+Responsive and Reusable Componenets.
+Movie trailer and youtube package used for video.
